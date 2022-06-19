@@ -1,0 +1,18 @@
+﻿.back-img {
+    background-image: url(../image/tiffen2.jpg);
+    margin-top: 5px;
+    background-color: #cccccc; 
+    height: 300px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.form-control-borderless {
+    border: none;
+}
+
+    .form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+        border: none;
+        outline: none;
+        box-shadow: none;
+    }
